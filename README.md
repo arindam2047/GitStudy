@@ -33,6 +33,10 @@
  	git add -v 					     #adds all verbose files
  	git add . -u 					     #add all of the changed files I have been unchecked
 
+**Merging and pushing**
+
+    git commit -a -m "Added extra test cases for contact service"    #Adding and committing multiple files.
+    git push --set-upstream origin <your branch name>feature/GAFABOTS-149-Test #Push to your branch.
 
 **Fetch && Pull**
 
