@@ -35,7 +35,7 @@
 
 **Merging and pushing**
 
-    git commit -a -m "Added extra test cases for contact service"    #Adding and committing multiple files.
+    git commit -a -m <your message>"Added extra test cases for contact service"    #Adding and committing multiple files.
     git push --set-upstream origin <your branch name>feature/GAFABOTS-149-Test #Push to your branch.
 
 **Fetch && Pull**
