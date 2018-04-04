@@ -134,4 +134,9 @@
 
 	git tag Release-0.0.1 -m "Release of Software on May 22"                #adds a specific tag
 	git push origin Release-0.0.1                                           #pushes a certain tag on the origin remote
+	
+**Store passowrd**
+    
+    git config credential.helper store              #This will store your password then do git pull
+    git pull                                        # git pull will ask for your password then it will autometically save your password.
 
