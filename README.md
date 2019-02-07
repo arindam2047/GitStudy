@@ -140,3 +140,5 @@
     git config credential.helper store              #This will store your password then do git pull
     git pull                                        # git pull will ask for your password then it will autometically save your password.
 
+**See Full branch Tree**
+git log --graph --pretty=oneline --abbrev-commit
