@@ -81,7 +81,7 @@
 **Undo**
 
 	git reset					   #undo after git add.
-	git --hard                     #updo the deleted files. Or retrieve the deleted files.
+	git reset --hard                    #undo the deleted files. Or retrieve the deleted files.
 	git reset --soft HEAD^				   #undo posle git commit -m 'update'
 	git reset HEAD [file_name]                         #undo after git add [file name] - undo after adding a single file
 	git checkout -- [file_name]                        #discard changes in a single file
