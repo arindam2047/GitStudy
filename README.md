@@ -33,10 +33,21 @@
  	git add -v 					     #adds all verbose files
  	git add . -u 					     #add all of the changed files I have been unchecked
 
-**Merging and pushing**
+**Commiting and pushing**
 
     git commit -a -m "your message - Added extra test cases for contact service"    #Adding and committing multiple files.
     git push --set-upstream origin "your branch name- feature/GAFABOTS-149-Test" #Push to your branch.
+    
+**Change the commit message**
+
+    To change the commit message which is not pushed yet.
+    git commit --amend and press Enter.            In your text editor, edit the commit message, Then press escape and 2 times shift+z 
+     
+    Amending the message of the most recently pushed commit
+    Follow the steps above to amend the commit message.
+    Use the push --force command to force push over the old commit.
+    
+    $ git push --force example-branch
 
 **Fetch && Pull**
 
