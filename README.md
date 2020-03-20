@@ -123,6 +123,7 @@
 	git stash                                          #saves all changes and returns to the most recent version
 	git stash save "Poruka"                            #the same as this only with a descriptive message
 	git stash list                                     #List all stash
+	git stash apply                                    #Pull the first entry available and reapply teh changes in working copy
 	git stash apply stash@{0}                          #returns stash @ {0}
 	git stash drop stash@{0}                           #it wipes a certain stash, (when no one is assigned a swipe last)
 	git stash show -p stash@{0}			   #shows what's in the stash
