@@ -97,7 +97,7 @@
 	git reset HEAD [file_name]                         #undo after git add [file name] - undo after adding a single file
 	git checkout -- [file_name]                        #discard changes in a single file
 	git checkout -- . 				   #disclaims changes in all files
-	git revert b53b3c796b6fdd3e7a02e		   #revert comit - returns comit that is wrong (list of all git logs)
+	git revert b53b3c796b6fdd3e7a02e		   #revert comit - returns comit that is wrong (First get the list of all commit by  "git logs")
 
 **Reset current branch to be as remote master**
 
