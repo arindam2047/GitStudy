@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9994c2-4624-46f2-a85a-ead7f64fd698" name="Default" comment=" update on stash command" />
+    <list default="true" id="6b9994c2-4624-46f2-a85a-ead7f64fd698" name="Default" comment=" update on stash command">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="445">
-                <caret line="116" column="73" lean-forward="true" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
+                <caret line="116" column="73" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,6 +56,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,7 +68,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,6 +158,9 @@
       <workItem from="1554983792107" duration="2018000" />
       <workItem from="1574806855492" duration="459000" />
       <workItem from="1584702270247" duration="6557000" />
+      <workItem from="1586189528035" duration="478000" />
+      <workItem from="1586653121936" duration="294000" />
+      <workItem from="1587130453239" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="Git commands and its explanation">
       <created>1520944896424</created>
@@ -224,12 +229,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24852000" />
+    <option name="totallyTimeSpent" value="25817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12759463" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13125764" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,7 +281,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="445">
-            <caret line="116" column="73" lean-forward="true" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
+            <caret line="116" column="73" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
           </first_editor>
           <second_editor />
         </state>
